@@ -1,0 +1,18 @@
+{
+  "merchants": [
+    {
+      "id": "QingYu",
+      "name": "火锅购卡",
+      "createdAt": "2026-11-09 16:36",
+      "platform": "微信",
+      "image": "img/QingYu.jpg"
+    },
+    {
+      "id": "Mian",
+      "name": "网站赞助",
+      "createdAt": "2026-11-09 13:25",
+      "platform": "微信",
+      "image": "img/Mian.jpg"
+    }
+  ]
+}
