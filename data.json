@@ -2,7 +2,7 @@
   "merchants": [
     {
       "id": "Mian",
-      "name": "网站入驻",
+      "name": "网站入驻/赞助",
       "createdAt": "2026-11-09 13:25",
       "platform": "微信",
       "image": "img/Mian.png"
